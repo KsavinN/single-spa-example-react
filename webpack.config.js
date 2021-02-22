@@ -3,8 +3,8 @@ const singleSpaDefaults = require("webpack-config-single-spa-react-ts");
 
 module.exports = (webpackConfigEnv, argv) => {
   const defaultConfig = singleSpaDefaults({
-    orgName: "pccw",
-    projectName: "poc-react-single-spa",
+    orgName: "example",
+    projectName: "single-spa-example-react",
     webpackConfigEnv,
     argv,
   });

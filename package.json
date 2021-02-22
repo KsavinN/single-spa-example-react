@@ -1,5 +1,5 @@
 {
-  "name": "@pccw/poc-react-single-spa",
+  "name": "@example/single-spa-exxample-react",
   "scripts": {
     "start": "webpack-dev-server --port 9876",
     "start:standalone": "webpack-dev-server --env.standalone",
